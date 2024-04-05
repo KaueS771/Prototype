@@ -1,3 +1,9 @@
+#Nome: Kaue Henrique dos Santos Data: 04/04/2024
+# 
+# 
+# 
+# 
+# ##########################################################################
 import copy
 
 class Pessoa:
